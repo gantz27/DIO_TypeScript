@@ -1,0 +1,16 @@
+{
+  "name": "dio_typescript",
+  "version": "1.0.0",
+  "description": "treinamento com typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gabriel alexandre",
+  "license": "ISC",
+  "dependencies": {
+    "bundler": "^0.8.0",
+    "parcel": "^2.0.0-rc.0"
+  }
+}
